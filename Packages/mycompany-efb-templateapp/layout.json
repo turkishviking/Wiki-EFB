@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/mycompany-efb-templateapp/thumbnail.jpg",
+      "size": 5446,
+      "date": 133603454680000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/templateapp/assets/app-icon.svg",
+      "size": 989,
+      "date": 134352378570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/templateapp/templateapp.css",
+      "size": 1562,
+      "date": 134352378570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/templateapp/templateapp.css.map",
+      "size": 7722,
+      "date": 134352378570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/templateapp/templateapp.js",
+      "size": 163711,
+      "date": 134352378570000000
+    },
+    {
+      "path": "html_ui/efb_ui/efb_apps/templateapp/templateapp.js.map",
+      "size": 394615,
+      "date": 134352378570000000
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<RPTInputs>
+	<RPTInput Path="h:\msfs 2024 sdk\samples\devmodeprojects\efb\PackageSources\TemplateApp\dist\Assets\app-icon.svg">
+		<Package Name="mycompany-efb-templateapp">
+			<AssetGroup Name="efb_apps_template"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="h:\msfs 2024 sdk\samples\devmodeprojects\efb\PackageSources\TemplateApp\dist\TemplateApp.css">
+		<Package Name="mycompany-efb-templateapp">
+			<AssetGroup Name="efb_apps_template"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="h:\msfs 2024 sdk\samples\devmodeprojects\efb\PackageSources\TemplateApp\dist\TemplateApp.css.map">
+		<Package Name="mycompany-efb-templateapp">
+			<AssetGroup Name="efb_apps_template"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="h:\msfs 2024 sdk\samples\devmodeprojects\efb\PackageDefinitions\mycompany-efb-templateapp\ContentInfo\Thumbnail.jpg">
+		<Package Name="mycompany-efb-templateapp">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="h:\msfs 2024 sdk\samples\devmodeprojects\efb\PackageSources\TemplateApp\dist\TemplateApp.js.map">
+		<Package Name="mycompany-efb-templateapp">
+			<AssetGroup Name="efb_apps_template"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="h:\msfs 2024 sdk\samples\devmodeprojects\efb\PackageSources\TemplateApp\dist\TemplateApp.js">
+		<Package Name="mycompany-efb-templateapp">
+			<AssetGroup Name="efb_apps_template"/>
+		</Package>
+	</RPTInput>
+</RPTInputs>
+
