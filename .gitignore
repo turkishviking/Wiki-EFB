@@ -11,6 +11,7 @@ PackageSources/TemplateApp/dist/
 
 # Fichiers par-machine
 *.user
+!EFBTemplateAppProject.xml.user
 
 # Bruit OS / éditeur
 .DS_Store
